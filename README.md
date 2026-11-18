@@ -1,2 +1,5 @@
-# hello-github
-Learning GitHub and programming
+# Hello GitHub
+
+I am learning programming.
+
+Created for GitHub Education verification.
